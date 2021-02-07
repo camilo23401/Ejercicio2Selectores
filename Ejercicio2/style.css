@@ -1,0 +1,21 @@
+.h1rojo {
+  color: red;
+}
+
+.h2azul {
+  color: blue;
+}
+
+.h2naranja {
+  color: orange;
+}
+
+.normalito {
+  text-align: center;
+}
+
+.modificado {
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+}
